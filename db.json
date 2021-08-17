@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple iPad Air with A14 Bionic chip (10.9-inch/27.69 cm, Wi-Fi + Cellular, 64GB) - Space Grey (4th Generation)",
+      "price": "65,590",
+      "rating": "4",
+      "brand": "Apple",
+      "generation": "4th Generation",
+      "display-size": "10.9 Inches LED",
+      "operating-system": "IOS 12",
+      "description": "Stunning 27.69 cm (10.9-inch) Liquid Retina display with True Tone and P3 wide colour.A14 Bionic chip with Neural Engine.Touch ID for secure authentication.Support for Magic Keyboard, Smart Keyboard Folio and Apple Pencil (2nd generation).",
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/71LJWOMyP4L._SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Lenovo Tab M10 FHD Plus Tablet (10.3-inch/26.1 cm, 2GB, 32GB, Wi-Fi + LTE, Volte Calling), Platinum Grey)",
+      "price": "14,999",
+      "rating": "4",
+      "brand": "Lenovo",
+      "generation": "5th Generation",
+      "display-size": "10.3 Inches LCD",
+      "operating-system": "Android 9.0 Pie",
+      "description": "Android v9 Pie operating system with 4 x A53 @ 2.3GHz, 4 x A53 @ 1.8GHz MediaTek Helio P22T Tab processor, 650MHz PowerVR GE8320 Gaming GPU.Camera : Rear: 8MP auto-focus, Front: 5MP fixed-focus. Ultrafast 2.3 GHz MediaTek Helio P22T Octa-Core Processor, with 650 MHz PowerVR GE8320 Gaming GPU . 2GB RAM, 32GB internal memory expandable up to 128GB, Single Nano SIM. 5000mAH lithium-ion battery.",
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/61zGtTvNttL._SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Alcatel 3T8 Tablet with Google Voice Assistant 2020 (8inch, 2GB+32GB, Wi-Fi + 4G Calling, Android 10, Type C Charging), Black",
+      "price": "9,499",
+      "rating": "3",
+      "brand": "Alcatel",
+      "generation": "5th Generation",
+      "display-size": "8 Inches LCD",
+      "operating-system": "Android 10",
+      "description": "20.32 Cm (8-Inch) Minimum Bezel With 800 X 1280 Pixels Resolution.5Mp Rear Camera With Auto Focus, 5Mp Front Camera.2Gb Ram & 32Gb Internal Memory (Expandable Up To 256Gb).Wifi Or Wifi +4G Volte Calling, Single Sim.",
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/71a50onq2fL._SL1500_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Apple iPad Mini with A12 Bionic chip (7.9-inch/20.1 cm, Wi‑Fi + Cellular, 64GB) - Gold (5th Generation)",
+      "price": "45,900",
+      "rating": "2",
+      "model-name": "MUX72HN/A",
+      "brand": "Apple",
+      "generation": "5th Generation",
+      "display-size": "7.9 Inches (2048 x 1536)",
+      "operating-system": "IOS",
+      "description": "20.1 cm (7.9-inch) Retina display with True Tone and wide color.A12 Bionic chip.Touch ID fingerprint sensor.8MP back camera, 7MP FaceTime HD front camera.Lightning connector for charging and accessories.",
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/81DQhnGJUrL._SL1500_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Alcatel TKEE MAX Tablet with Google Voice Assistant (10.1inch, 2GB+32GB, Wi-Fi only, Android 10, Type C Charging), Mint Green",
+      "price": "10,499",
+      "rating": "5",
+      "model-name": "AWEX72H",
+      "brand": "Alcatel",
+      "generation": "3th Generation",
+      "display-size": "10.1 Inches LCD",
+      "operating-system": "Android 10",
+      "description": "25.4 Cm (10.1-Inch) Minimum Bezel With 800 X 1280 Pixels Resolution. 2Mp Rear Camera With Auto Focus, 2Mp Front Camera.2Gb Ram & 32Gb Internal Memory (Expandable Up To 128Gb).Google Voice Assistant And Wi-Fi Only.4080Mah Lithium-Ion Battery.Battery: Standby time 400hrs. If you play 1080p video continuously with maximum display light and maximum volume the tablet will work for 4 hours.",
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/61l6dlG0nWL._SL1500_.jpg"
+    }
+  ]
+}
